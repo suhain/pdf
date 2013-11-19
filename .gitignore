@@ -4,3 +4,6 @@ netbeans/
 nbproject/
 *~
 *.swp
+Makefile
+pdf-Makefile.mk
+
